@@ -17,7 +17,7 @@ This project implements parallel computing optimization techniques to accelerate
 
 ## Installation
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mma165/Auto-Parallizer- 
 cd parallel-finalizer-project
 pip install -r requirements.txt
 ```
